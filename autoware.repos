@@ -104,3 +104,8 @@ repositories:
     type: git
     url: https://github.com/astuff/pacmod3_msgs.git
     version: main
+  # point_cloud_msg_wrapper
+  point_cloud_msg_wrapper:
+    type: git
+    url: https://gitlab.com/ApexAI/point_cloud_msg_wrapper
+    version: main
