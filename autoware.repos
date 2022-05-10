@@ -94,3 +94,8 @@ repositories:
     type: git
     url: https://github.com/autowarefoundation/autoware_individual_params.git
     version: main
+  # calibration topic_tools
+  calibration_tools:
+    type: git
+    url: git@github.com:tier4/calibration_tools.iv.git
+    version: tier4/universe
