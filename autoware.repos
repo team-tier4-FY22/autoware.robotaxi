@@ -99,3 +99,8 @@ repositories:
     type: git
     url: git@github.com:tier4/calibration_tools.iv.git
     version: tier4/universe
+  # pacmod3_msgs:
+  pacmod3_msgs:
+    type: git
+    url: https://github.com/astuff/pacmod3_msgs.git
+    version: main
