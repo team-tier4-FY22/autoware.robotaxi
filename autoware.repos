@@ -67,12 +67,20 @@ repositories:
     type: git
     url: https://github.com/tier4/velodyne_vls.git
     version: tier4/universe
-  # sensor_kit
+  # sensor_kit  
+  sensor_kit/robotaxi_sensor_kit_launch:
+    type: git
+    url: https://github.com/team-tier4-fy22/robotaxi_sensor_kit_launch.git
+    version: main
   sensor_kit/sample_sensor_kit_launch:
     type: git
     url: https://github.com/autowarefoundation/sample_sensor_kit_launch.git
     version: main
   # vehicle
+  vehicle/robotaxi_launch:
+    type: git
+    url: https://github.com/team-tier4-fy22/robotaxi_launch.git
+    version: main
   vehicle/sample_vehicle_launch:
     type: git
     url: https://github.com/autowarefoundation/sample_vehicle_launch.git
