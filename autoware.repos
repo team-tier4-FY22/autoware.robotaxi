@@ -21,8 +21,8 @@ repositories:
     type: git
     # url: https://github.com/autowarefoundation/autoware.universe.git
     # version: main
-    url: https://github.com/tier4/autoware.universe.git
-    version: v0.1.1
+    url: git@github.com:team-tier4-fy22/autoware.universe.robotaxi.git
+    version: fy22/robotaxi
   universe/tmp/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
