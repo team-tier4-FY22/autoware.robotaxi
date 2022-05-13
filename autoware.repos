@@ -19,8 +19,10 @@ repositories:
   # universe
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
-    version: main
+    # url: https://github.com/autowarefoundation/autoware.universe.git
+    # version: main
+    url: https://github.com/tier4/autoware.universe.git
+    version: v0.1.1
   universe/tmp/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
@@ -40,7 +42,7 @@ repositories:
   universe/vendor/ndt_omp:
     type: git
     url: https://github.com/tier4/ndt_omp.git
-    version: tier4/main
+    version: 84d313e98f70033f37a664003f90ef90813cb665 # tier4/main
   universe/vendor/pointcloud_to_laserscan:
     type: git
     url: https://github.com/tier4/pointcloud_to_laserscan.git
