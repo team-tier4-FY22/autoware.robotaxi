@@ -53,8 +53,8 @@ repositories:
     version: tier4/main
   universe/vendor/ublox:
     type: git
-    url: https://github.com/KumarRobotics/ublox.git
-    version: galactic-devel
+    url: https://github.com/tier4/ublox.git
+    version: tier4/ros2
   # launcher
   launcher/autoware_launch:
     type: git
