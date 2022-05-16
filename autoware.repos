@@ -103,8 +103,8 @@ repositories:
   # calibration topic_tools
   calibration_tools:
     type: git
-    url: git@github.com:tier4/calibration_tools.iv.git
-    version: tier4/universe
+    url: git@github.com:team-tier4-fy22/calibration_tools.robotaxi.git
+    version: robotaxi # tier4/universe
   # pacmod3_msgs:
   pacmod3_msgs:
     type: git
