@@ -110,6 +110,11 @@ repositories:
     type: git
     url: https://github.com/astuff/pacmod3_msgs.git
     version: main
+  # pacmod3:
+  pacmod3:
+    type: git
+    url: https://github.com/tier4/pacmod3.git
+    version: ros2_master
   # point_cloud_msg_wrapper
   point_cloud_msg_wrapper:
     type: git
