@@ -98,7 +98,7 @@ repositories:
   # param
   param/autoware_individual_params:
     type: git
-    url: https://github.com/autowarefoundation/autoware_individual_params.git
+    url: https://github.com/team-tier4-fy22/autoware_individual_params.robotaxi.git
     version: main
   # calibration topic_tools
   calibration_tools:
