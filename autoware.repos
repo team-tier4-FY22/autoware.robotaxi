@@ -58,7 +58,7 @@ repositories:
   # launcher
   launcher/autoware_launch:
     type: git
-    url: git@github.com:team-tier4i-fy22/autoware_launcher.robotaxi.git
+    url: git@github.com:team-tier4-fy22/autoware_launcher.robotaxi.git
     version: robotaxi
   # sensor_component
   sensor_component/sensor_component_description:
