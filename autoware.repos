@@ -58,8 +58,8 @@ repositories:
   # launcher
   launcher/autoware_launch:
     type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
-    version: main
+    url: git@github.com:tier4/autoware_launcher.jpntaxi.git
+    version: v0.30.0.0 # main
   # sensor_component
   sensor_component/sensor_component_description:
     type: git
