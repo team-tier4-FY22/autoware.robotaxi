@@ -125,8 +125,8 @@ repositories:
     type: git
     url: https://github.com/tier4/AutowareArchitectureProposal_msgs.git
     version: 4d3f1ac0eddefecd5f36a868996b36b8dabde512
-  office_scenario:
+  looped_mission_planner:
     type: git
-    url: git@github.com:team-tier4-fy22/office_scenario.git
+    url: git@github.com:team-tier4-fy22/looped_mission_planner.git
     version: main
 
