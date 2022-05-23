@@ -58,8 +58,8 @@ repositories:
   # launcher
   launcher/autoware_launch:
     type: git
-    url: git@github.com:tier4/autoware_launcher.jpntaxi.git
-    version: v0.30.0.0 # main
+    url: git@github.com:team-tier4i-fy22/autoware_launcher.robotaxi.git
+    version: robotaxi
   # sensor_component
   sensor_component/sensor_component_description:
     type: git
@@ -120,3 +120,13 @@ repositories:
     type: git
     url: https://gitlab.com/ApexAI/point_cloud_msg_wrapper
     version: main
+
+  simulator/AutowareArchitectureProposal_msgs: # for scenario_simulator_v2 backward compatibility.
+    type: git
+    url: https://github.com/tier4/AutowareArchitectureProposal_msgs.git
+    version: 4d3f1ac0eddefecd5f36a868996b36b8dabde512
+  office_scenario:
+    type: git
+    url: git@github.com:team-tier4-fy22/office_scenario.git
+    version: main
+
