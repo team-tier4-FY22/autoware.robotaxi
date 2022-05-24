@@ -93,7 +93,7 @@ repositories:
     version: main
   vehicle/pacmod_interface:
     type: git
-    url: https://github.com/tier4/pacmod_interface.git
+    url: git@github.com:team-tier4-FY22/pacmod_interface.git
     version: 68335e5 # main
   # param
   param/autoware_individual_params:
